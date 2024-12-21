@@ -1,0 +1,11 @@
+kb_wapping
+kb_phoenix
+kb_bangkok
+kb_sydney
+kb_paris
+kb_moscow
+kb_melbourne
+kb_london
+kb_berlin
+kb_tokyo
+kb_newyork

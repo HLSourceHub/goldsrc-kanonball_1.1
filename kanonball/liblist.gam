@@ -1,0 +1,13 @@
+// Kanonball Game .dll Listing File
+// Load order is determined by file order.
+game "Kanonball"
+url_info "http://www.planethalflife.com/kanonball/"
+url_dl "http://www.planethalflife.com/kanonball/download.html"
+version "1.1"
+size "73841395"
+svonly "0"
+cldll "1"
+hlversion "1110"
+type "multiplayer_only"
+mpentity "info_kb_deathmatch"
+gamedll "dlls\kanonball.dll"

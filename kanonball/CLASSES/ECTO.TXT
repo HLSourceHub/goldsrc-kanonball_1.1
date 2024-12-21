@@ -1,0 +1,83 @@
+Ectomorph
+
+Speed - fast
+Powerjump height - high
+Sturdiness - weak
+Catching radius - high
+Throw Speed - weak
+Aftertouch - slight
+
+Mesomorph
+
+Speed - moderate 
+Powerjump height - average
+Sturdiness - averate
+Catching radius - moderate
+Throw Speed - average
+Aftertouch - moderate
+
+Ubermorph
+
+Speed - slow
+Powerjump height - low
+Sturdiness - tough
+Catching radius - low
+Throw Speed - extreme
+Aftertouch - severe
+
+
+Speed – this measures how fast the clone can run at full speed.  A vital statistic in the fast-paced game of Kanonball, Speed is a statistical mixture of a Clones ability to accelerate and
+maintain a given speed, and as such, it suggests how well a clone is able to dodge incoming attacks.  
+
+Powerjump Height – a powerjump is a special manoeuvre that any clone can perform, which sees them spring upwards from a crouching position and hurl themselves through the air.  
+
+Fumble – directly related to the clone’s weight, this statistic measures how likely a clone is to fumble a ball if they are involved in a minor collision.  
+
+Damage – also related to the clone’s weight, this statistic measures how much damage a clone is likely to do when running at speed.  
+
+Resistance – again related to weight, Resistance measures sturdiness.  
+
+Catching Radius – catching radius measures how far from the clone it can attempt to snatch the ball, which is a function of the clone’s agility.  
+
+Throwing Speed – a function of the clone’s strength, this statistic measures how fast a clone can throw the ball, and hence how far they can throw.  
+
+Aftertouch – a function of strength, where the general rule is, the greater strength your strength, the more severe the curve of the ball, and hence the harder it is too control. 
+
+MESOMORPH
+ 
+Description - The well-rounded Mesomorph is the pinnacle of clone design, offering superlative performance with few tradeoffs, able to easily outrun Ubermorphs, and hit harder than Ectomorphs. The Mesomorph provides the statistical baseline that all deviations between body types are measured from.
+ 
+Speed – NORMAL (100%)
+Powerjump Height – NORMAL (100%)
+Fumble – NORMAL (50%)
+Damage – MODERATE
+Resistance - MODERATE
+Catching Radius – NORMAL (100%)
+Throwing Speed – MODERATE
+Aftertouch – MODERATE
+ 
+UBERMORPH
+ 
+Description - Hard-hitting and strong, the hulking Ubermorph is capable of specialised offensive and defensive plays.  His ability to hit hard in a collision and throw the ball far is only offset by his slowness on the ground and in the air.  
+ 
+Speed – SLOW (85%)
+Powerjump Height – SHORT
+Fumble – RARE (20%)
+Damage – SEVERE (+15)
+Resistance – EXTREME (+15)  
+Catching Radius – SHORT (85%)
+Throwing Speed – FAST (115%)
+Aftertouch – SEVERE
+ 
+ECTOMORPH
+ 
+Description - The Ectomorph is the fastest and most agile of the clones, but also the most delicate.  His tremendous running speed and his amazing powerjumps come at the expense of weight and muscle mass, which means the ectomorph is susceptible to collision damage, and a comparatively weak throwing arm.
+ 
+Speed – 115%   
+Powerjump Height – EXTREME (115%)  
+Fumble – OFTEN (80%)
+Damage – WEAK (-15)
+Resistance – WEAK (-15)
+Catching Radius – LARGE (115%)
+Throwing Speed – MODERATE
+Aftertouch – MILD

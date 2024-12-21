@@ -1,0 +1,21 @@
+Kanonball v1.0 console commands
+
+
+Server
+------
+// 30 minute timelimit
+mp_timelimit 30
+
+// Kanonball goal limit
+kb_goallimit 0
+
+sv_tournament 0 (tournament mode - not fully implemented yet, so leave this at value "0" for now)
+
+Client
+------
+pid_disable 0 or 1  (disables/enables player IDs for the client)
+
+pid_above 0 or 1  (alters whether or not the PID will be above or below other players for the client)
+
+
+

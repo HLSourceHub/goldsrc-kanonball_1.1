@@ -1,0 +1,1 @@
+hl.exe -game kanonball -num_edicts 2048 -console
